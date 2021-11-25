@@ -8,6 +8,7 @@
 - [x] Python (OOP)
 - [x] Numpy
 - [x] Pandas
+
 ... coming soon~~~ 
 
 
