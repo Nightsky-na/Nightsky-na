@@ -4,10 +4,12 @@
 ### 🌱 I'm currently student at ICT faculty. ヾ(≧▽≦*)o
 ### 🍃 I’m currently learning ...
 - For Data Science
-- [ ] Python (Beginning)
-- [ ] Python (OOP)
-- [ ] Numpy
-- [ ] Pandas
+- [x] Python (Beginning)
+- [x] Python (OOP)
+- [x] Numpy
+- [x] Pandas
+... coming soon~~~ 
+
 
 - For Web Developer
 - [x] HTML (Beginning) 
