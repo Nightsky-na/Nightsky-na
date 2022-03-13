@@ -9,6 +9,11 @@
 - [x] Numpy
 - [x] Pandas
 
+-For MLOps
+- [x] Go (Basic)
+- [x] Docker (Basic)
+- [x] DevOps Principles (Basic)
+- [x] FastAPI
 ... coming soon~~~ 
 
 
@@ -16,7 +21,8 @@
 - [x] HTML (Beginning) 
 - [x] CSS (Beginning)
 - [x] SQL (Beginning) 
-- [ ] JavaScript
+- [x] JavaScript
+- [x] FastAPI
 - [ ] AJAX [this links](https://www.youtube.com/watch?v=82hnvUYY6QA)
 - [ ] Node js [this links](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 - [ ] Express 
