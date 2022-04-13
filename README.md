@@ -35,15 +35,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nightsky-na&layout=compact&theme=dark&show_icons=true)](https://github.com/Nightsky-na/github-readme-stats) -->
 ## GitHub Stats
 <a href="https://github.com/Nightsky-na/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightsky-na" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightsky-na&theme=dark&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=Nightsky-na&theme=dark&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nightsky-na&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nightsky-na's GitHub Stats" />
 </a>
-
+<!-- 
 <a href="https://github.com/Nightsky-na/Nightsky-na.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nightsky-na&repo=Nightsky-na.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a> -->
