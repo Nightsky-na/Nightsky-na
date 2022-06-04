@@ -24,10 +24,10 @@
 - [x] JavaScript
 - [x] FastAPI
 - [ ] AJAX [this links](https://www.youtube.com/watch?v=82hnvUYY6QA)
-- [ ] Node js [this links](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
-- [ ] Express 
-- [ ] MongoDB [this links](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
-- [ ] Authentication [this links](https://www.youtube.com/watch?v=6FOq4cUdH8k)
+- [x] Node js [this links](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+- [x] Express 
+- [x] MongoDB [this links](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+- [x] Authentication [this links](https://www.youtube.com/watch?v=6FOq4cUdH8k)
 - [ ] React js 
 
 <!-- ![Nightsky-na's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nightsky-na&theme=dark&show_icons=true)
