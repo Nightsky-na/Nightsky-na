@@ -27,6 +27,7 @@
 - [x] Node js [this links](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 - [x] Express 
 - [x] MongoDB [this links](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+- [x] Queue management using RabbitMQ
 - [x] Authentication [this links](https://www.youtube.com/watch?v=6FOq4cUdH8k)
 - [ ] React js 
 
