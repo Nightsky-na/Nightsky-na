@@ -41,6 +41,9 @@
 <a href="https://github-readme-stats.vercel.app/api?username=Nightsky-na&theme=dark&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nightsky-na&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nightsky-na's GitHub Stats" />
 </a>
+
+## Leedcode:
+![Leetcode Stats](https://leetcard.jacoblin.cool/user3631q?theme=nord)
 <!-- 
 <a href="https://github.com/Nightsky-na/Nightsky-na.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nightsky-na&repo=Nightsky-na.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
