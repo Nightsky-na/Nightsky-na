@@ -20,6 +20,7 @@
 - For Web Developer
 - [x] HTML (Beginning) 
 - [x] CSS (Beginning)
+- [x] Tailwind (CSS framwork)
 - [x] SQL (Beginning) 
 - [x] JavaScript
 - [x] FastAPI
@@ -30,6 +31,7 @@
 - [x] Queue management using RabbitMQ
 - [x] Authentication [this links](https://www.youtube.com/watch?v=6FOq4cUdH8k)
 - [ ] React js 
+- [ ] Vue js
 
 <!-- ![Nightsky-na's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nightsky-na&theme=dark&show_icons=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nightsky-na&repo=Nightsky-na.github.io&theme=dark&show_icons=true)](https://github.com/Nightsky-na/Nightsky-na.github.io)
