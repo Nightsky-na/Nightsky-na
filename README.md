@@ -2,22 +2,40 @@
 #### You may know me as Meng.
 
 ### 🌱 I'm currently student at ICT faculty. ヾ(≧▽≦*)o
+
 ### 🍃 I’m currently learning ...
-- For Data Science
+
+## For Data Science
 - [x] Python (Beginning)
 - [x] Python (OOP)
 - [x] Numpy
 - [x] Pandas
 
--For MLOps
+## For MLOps 
 - [x] Go (Basic)
 - [x] Docker (Basic)
 - [x] DevOps Principles (Basic)
 - [x] FastAPI
+- [ ] Pytorch
+- [ ] Tensorflow
 ... coming soon~~~ 
 
+## For ML Engineer 🤖
+- Now LLM Learner
+- [ ] Fine tune LLM 
+- [ ] Create chatbot
+- [ ] Learn text to image
+- [ ] Edge computing
+- [ ] Federated Learning
 
-- For Web Developer
+## For Game Developer 👾
+- [ ] Learn Unity
+- [ ] Game Design
+- [ ] Character design
+- [ ] 3D Model
+- [ ] Story telling 
+
+## For Web Developer
 - [x] HTML (Beginning) 
 - [x] CSS (Beginning)
 - [x] Tailwind (CSS framwork)
