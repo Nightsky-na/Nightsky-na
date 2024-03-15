@@ -16,14 +16,14 @@
 - [x] Docker (Basic)
 - [x] DevOps Principles (Basic)
 - [x] FastAPI
-- [ ] Pytorch
-- [ ] Tensorflow
+- [x] Pytorch
+- [x] Tensorflow
 ... coming soon~~~ 
 
 ## For ML Engineer 🤖
 - Now LLM Learner
 - [ ] Fine tune LLM 
-- [ ] Create chatbot
+- [x] Create chatbot
 - [ ] Learn text to image
 - [ ] Edge computing
 - [ ] Federated Learning
